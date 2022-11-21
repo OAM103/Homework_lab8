@@ -1,4 +1,3 @@
-package com.metanit;
 
 public class Ex4 {
     public static int recursion(int len, int sum, int k, int s) {
